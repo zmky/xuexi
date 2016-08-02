@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNGSuite]">
+  <parameter name="platform" value="FF"/>
+  <test name="test2(failed)">
+    <classes>
+      <class name="cn.xuexi.TestLog4j">
+        <methods>
+          <include name="beforClass"/>
+          <include name="beforeMethod"/>
+          <include name="testSogou"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- cn.xuexi.TestLog4j -->
+    </classes>
+  </test> <!-- test2(failed) -->
+</suite> <!-- Failed suite [TestNGSuite] -->

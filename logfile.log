@@ -1,0 +1,95 @@
+2016/07/15 20:50:21:242  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/15 20:50:21:245  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/15 20:50:23:212  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/15 20:51:00:172  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/15 20:51:00:174  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/15 20:51:03:189  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/15 20:51:03:575  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/15 20:51:08:576  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/15 20:51:08:576  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/15 20:51:48:978  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/15 20:51:48:982  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/15 20:51:51:915  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/15 20:51:52:163  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/15 20:51:57:163  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/15 20:51:57:163  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/16 17:18:29:119  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/16 17:18:29:148  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/16 17:18:32:642  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【get】 运行通过！
+2016/07/16 17:18:32:642  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/16 17:18:32:774  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:18:32:975  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:18:33:075  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/16 17:18:38:077  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/16 17:18:38:077  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/16 17:28:53:262  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/16 17:28:53:265  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/16 17:28:57:601  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【get】 运行通过！
+2016/07/16 17:28:57:602  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/16 17:28:57:664  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:28:58:235  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:28:58:399  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/16 17:29:03:400  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/16 17:29:03:400  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/16 17:31:38:707  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/16 17:31:38:711  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/16 17:31:40:580  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【get】 运行通过！
+2016/07/16 17:31:40:580  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/16 17:31:40:675  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:31:40:853  INFO cn.xuexi.webdriver.baseapi.WebdriverBaseApi:92 - method 【findElement】 运行通过！
+2016/07/16 17:31:40:947  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/16 17:31:45:947  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/16 17:31:45:947  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/18 14:54:35:627  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 14:54:35:675  INFO cn.xuexi.Log:10 - ******   AjaxClick 搜狗浮动框   ********
+2016/07/18 14:54:43:068  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 14:54:46:405  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:438  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:505  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:552  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:583  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:617  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:647  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:694  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:724  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:46:761  INFO cn.xuexi.Log:18 - 点击包含中国南海的选项
+2016/07/18 14:54:51:761  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/18 14:54:51:761  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/18 14:54:54:603  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 14:54:54:605  INFO cn.xuexi.Log:10 - ******   testJavaScriptClick   ********
+2016/07/18 14:55:18:801  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 14:56:35:381  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 14:56:35:500  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 14:56:59:525  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 14:57:00:351  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 14:57:34:309  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 14:57:34:313  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 14:57:47:014  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 14:57:47:348  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 14:58:04:605  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/18 14:58:04:605  INFO cn.xuexi.Log:14 - ----------------------------
+2016/07/18 14:58:48:046  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 14:58:48:049  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 14:58:59:679  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 14:59:16:889  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 15:00:02:811  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 15:00:02:814  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 15:00:18:502  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 15:01:31:548  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 15:01:31:551  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 15:01:32:909  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 15:01:49:848  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 15:02:30:177  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 15:02:30:182  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 15:02:59:641  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 15:02:59:936  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 15:06:19:977  INFO org.apache.http.impl.execchain.RetryExec:94 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2016/07/18 15:06:19:978  INFO org.apache.http.impl.execchain.RetryExec:110 - Retrying request to {}->http://127.0.0.1:7055
+2016/07/18 15:10:47:615  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 15:10:47:618  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 15:11:56:924  INFO cn.xuexi.Log:9 - --------------------------
+2016/07/18 15:11:56:927  INFO cn.xuexi.Log:10 - ******   testSogou   ********
+2016/07/18 15:13:28:248  INFO cn.xuexi.Log:18 - 打开 首页
+2016/07/18 15:13:28:600  INFO cn.xuexi.Log:18 - 单击搜索按钮
+2016/07/18 15:14:53:277  INFO cn.xuexi.Log:13 - *********    测试用例执行结束   ******
+2016/07/18 15:14:53:277  INFO cn.xuexi.Log:14 - ----------------------------

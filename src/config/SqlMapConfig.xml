@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE sqlMapConfig      
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map Config 2.0//EN"      
+    "./sql-map-config-2.dtd">
+
+<sqlMapConfig>
+
+	<properties resource="config/jdbc.properties" />
+
+	<settings cacheModelsEnabled="true" enhancementEnabled="true"
+		lazyLoadingEnabled="true" maxRequests="32" maxSessions="10"
+		maxTransactions="5" useStatementNamespaces="true" />
+
+	<transactionManager type="JDBC">
+		<dataSource type="DBCP">
+			<property name="JDBC.Driver" value="${Driver}" />
+			<property name="JDBC.ConnectionURL" value="${ConnectionURL}" />
+			<property name="JDBC.Username" value="${Username}" />
+			<property name="JDBC.Password" value="${Password}" />
+			<property name="Pool.MaximumActiveConnections" value="${MaximumActiveConnections}" />
+			<property name="MaximumIdleConnections" value="${MaximumIdleConnections}" />
+			<property name="Pool.MaximumWait" value="${MaximumWait}" />
+		</dataSource>
+	</transactionManager>
+
+	<sqlMap resource="com/auction/bean/sqlmap/UserInfo.xml" />
+</sqlMapConfig>

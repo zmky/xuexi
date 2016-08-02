@@ -1,0 +1,8 @@
+<suite name="TestNGSuite">
+    <parameter name="platform" value="chrome"/> 
+	<test name="test2">
+		<classes>
+			<class name="cn.xuexi.TestLog4j"/>
+		</classes>
+	</test>
+</suite> 
